@@ -1,2 +1,3 @@
-# THE_ONE_THING
-How to apple the book THE ONE THING to your life
+# THE ONE THING — Actionable Summary
+
+This repo contains a practical summary of *The ONE Thing* by Gary Keller, plus simple tools to apply its core ideas to your life.
